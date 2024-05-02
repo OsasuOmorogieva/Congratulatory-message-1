@@ -16,7 +16,7 @@ with this I say welcome to canada {name}
 
 Regards,
 Marc Miller.
-Immigration, Refugees and Citizenship Canada Minister
+Immigration, Refugees and Citizenship Canada Minister.
 '''
 
 
