@@ -15,7 +15,7 @@ after stamp takes about 5 business days.
 with this I say welcome to canada {name}
 
 Regards,
-Marc Miller
+Marc Miller.
 Immigration, Refugees and Citizenship Canada Minister
 '''
 
